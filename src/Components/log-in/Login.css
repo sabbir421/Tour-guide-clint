@@ -1,0 +1,19 @@
+.login-form{
+    height: auto;
+    background-color: rgb(19, 226, 81);
+   
+
+}
+
+.googleBtn{
+    align-items: center;
+    margin-left:40%;
+    margin-top: 50px;
+    
+}
+.loginBtn{
+    align-items: center;
+    margin-left:40%;
+    margin-top: 50px;
+    
+}
